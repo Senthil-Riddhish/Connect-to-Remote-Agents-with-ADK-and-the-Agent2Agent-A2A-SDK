@@ -1,0 +1,27 @@
+# Cloud shell & system files
+.bash*
+.cache/
+.config/
+.local/
+.npm/
+.rustup/
+.docker/
+.codeoss/
+.gemini/
+.vscode/
+profile
+.sudo*
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Zip
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
